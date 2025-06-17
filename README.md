@@ -27,7 +27,9 @@ A simple, fun arcade shooter game inspired by Geometry Wars and classic arcade g
 - Press R to try again when game over
 
 ## Screenshots
-*Add your gameplay screenshots here*
+![Screenshoth h (2)](https://github.com/user-attachments/assets/95041c47-4c6b-4980-8e7c-9bb36a9a7ce4)
+![Screenshot (2)](https://github.com/user-attachments/assets/4ac4dd0c-3e19-44af-954c-26c570192947)
+
 
 ## Technical Details
 - **Engine**: Python + Pygame
